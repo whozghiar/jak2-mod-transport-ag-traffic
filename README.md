@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OpenGOAL-Mod-blue.svg" alt="OpenGOAL Mod">
   <img src="https://img.shields.io/badge/Game-Jak%202-orange.svg" alt="Game">
-  <img src="https://img.shields.io/badge/Branch-jak2%2Ffeatures%2Ftransport--ag%2Ftraffic-green.svg" alt="Branch">
   <img src="https://img.shields.io/badge/AI--assisted-Modding-purple.svg" alt="AI Assisted">
 </p>
 
@@ -14,6 +13,9 @@
 ---
 
 # 🇬🇧 English Version
+
+> [!NOTE]
+> This mod moved from the `jak2/features/transport-ag/traffic` branch of [whozghiar/jak-project](https://github.com/whozghiar/jak-project) to this repository. Earlier releases stay installable from the launcher catalog.
 
 ## 📖 Overview
 Integrates transport-v, an authentic Crimson Guard troop transport gunship into Haven City's ambient high-altitude traffic lanes, pilotable by Jak with a functional turret, chasing during alerts, and hovering to drop squads.
