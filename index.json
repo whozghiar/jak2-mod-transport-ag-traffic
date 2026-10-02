@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "sourceName": "KG-Transporter Traffic Source",
-  "lastUpdated": "2026-10-02T12:13:44Z",
+  "lastUpdated": "2026-10-02T13:49:54Z",
   "mods": {
     "transport-ag-traffic": {
       "displayName": "KG-Transporter Traffic",
@@ -34,8 +34,8 @@
           }
         }
       ],
-      "coverArtUrl": "https://raw.githubusercontent.com/whozghiar/jak-project/mods/jak2-transport-ag-traffic/docs/img/mod/mod_cover.png",
-      "thumbnailArtUrl": "https://raw.githubusercontent.com/whozghiar/jak-project/mods/jak2-transport-ag-traffic/docs/img/mod/mod_cover.png"
+      "coverArtUrl": "https://raw.githubusercontent.com/whozghiar/jak2-transport-ag-traffic/main/docs/img/mod/mod_cover.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/whozghiar/jak2-transport-ag-traffic/main/docs/img/mod/mod_cover.png"
     }
   },
   "texturePacks": {}
