@@ -1,4 +1,4 @@
-# Crimson Guard Transport Ship in Ambient Traffic
+# KG-Transporter Traffic — Jak 2
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenGOAL-Mod-blue.svg" alt="OpenGOAL Mod">
