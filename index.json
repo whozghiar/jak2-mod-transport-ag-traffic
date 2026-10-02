@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "sourceName": "KG-Transporter Traffic Source",
-  "lastUpdated": "2026-10-02T13:49:54Z",
+  "lastUpdated": "2026-10-02T14:18:55Z",
   "mods": {
     "transport-ag-traffic": {
       "displayName": "KG-Transporter Traffic",
@@ -16,7 +16,7 @@
       "supportedGames": [
         "jak2"
       ],
-      "websiteUrl": "https://github.com/whozghiar/jak2-transport-ag-traffic",
+      "websiteUrl": "https://github.com/whozghiar/jak2-mod-transport-ag-traffic",
       "versions": [
         {
           "version": "1.0.0",
@@ -34,8 +34,8 @@
           }
         }
       ],
-      "coverArtUrl": "https://raw.githubusercontent.com/whozghiar/jak2-transport-ag-traffic/main/docs/img/mod/mod_cover.png",
-      "thumbnailArtUrl": "https://raw.githubusercontent.com/whozghiar/jak2-transport-ag-traffic/main/docs/img/mod/mod_cover.png"
+      "coverArtUrl": "https://raw.githubusercontent.com/whozghiar/jak2-mod-transport-ag-traffic/main/docs/img/mod/mod_cover.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/whozghiar/jak2-mod-transport-ag-traffic/main/docs/img/mod/mod_cover.png"
     }
   },
   "texturePacks": {}
