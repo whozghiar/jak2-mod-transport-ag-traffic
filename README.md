@@ -21,7 +21,7 @@
 Integrates transport-v, an authentic Crimson Guard troop transport gunship into Haven City's ambient high-altitude traffic lanes, pilotable by Jak with a functional turret, chasing during alerts, and hovering to drop squads.
 
 - **Target Game:** Jak 2
-- **Active Branch:** `jak2/features/transport-ag/traffic`
+- **Repository:** [`whozghiar/jak2-mod-transport-ag-traffic`](https://github.com/whozghiar/jak2-mod-transport-ag-traffic)
 
 ## ✨ Key Features
 - **Ambient High-Altitude Gunship:**  Dual-hull troop transport navigating city flight lanes with seated pilot and minimap icon.
@@ -90,7 +90,7 @@ For the complete technical breakdown, architecture, and developer notes, refer t
 Intègre transport-v, un véritable vaisseau de transport de troupes de la Garde Grenat dans le trafic aérien ambiant d'Abriville, pilotable par Jak avec tourelle fonctionnelle, poursuites d'alerte et largage de troupes.
 
 - **Jeu Ciblé :** Jak 2
-- **Branche Active :** `jak2/features/transport-ag/traffic`
+- **Dépôt :** [`whozghiar/jak2-mod-transport-ag-traffic`](https://github.com/whozghiar/jak2-mod-transport-ag-traffic)
 
 ## ✨ Fonctionnalités Clés
 - **Canonnière dans le Trafic Aérien  :**  Vaisseau de transport à double coque naviguant dans les voies aériennes avec pilote assis et icône minimap.
